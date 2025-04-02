@@ -1,4 +1,3 @@
-```markdown
 # Open Duck Mini 运行时
 
 ## Raspberry Pi zero 2W 设置
