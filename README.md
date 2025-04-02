@@ -1,5 +1,7 @@
 # Open Duck Mini Runtime
 
+[中文](./README_zh.md)
+
 ## Raspberry Pi zero 2W setup
 
 ### Install Raspberry Pi OS
